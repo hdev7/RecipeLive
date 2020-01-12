@@ -23,7 +23,7 @@ I spend a lot of time looking for recipes that would match the ingredients I hav
   
 **Code, notebooks, and documents**
 
-- [Project_Presentation.pptx](./docs/RecipeLive.pptx), or [PDF](./docs/RecipeLive.pdf) - project report on markdown and powerpoint (or pdf) formats 
+- [Project_Presentation.pptx](./docs/RecipeLive.pptx), or [PDF](./docs/RecipeLive.pdf) - project report on powerpoint (or pdf) formats 
 - [Step1_DataAcquisition.ipynb](./notebooks/DataGathering.ipynb) - collecting images from google
 - [Step2_recipe_scrapper.py](./scripts/recipe_scrapper.py) - Scrapped a recipe website
 - [Step3_Data Cleaning.ipynb](./notebooks/data_cleaning.ipynb) - preprocessing of the dataset
