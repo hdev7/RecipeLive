@@ -31,9 +31,5 @@ I spend a lot of time looking for recipes that would match the ingredients I hav
 - [Step5_ImageClassification.ipynb](./notebooks/ImageClassification.ipynb) - Image classification
 - [Step5_End-to-end-pipeline.ipynb](./notebooks/End_to_endpipeline.ipynb) - example script of how images are fed into the model > output as text > key-search of tagged recipes
 
-**scripts**
-- scrapper
-- flask app
-- windows script to remove files in the test directory, copy pictures from email to the test directory
 
 
