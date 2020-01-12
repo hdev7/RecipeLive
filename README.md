@@ -18,7 +18,7 @@ I spend a lot of time looking for recipes that would match the ingredients I hav
   - [x] Perform topic modeling analysis for recipe-tagging, i.e., grouping them into different dish categories  
   - [x] Build a Flask app and a script that loads images from mail inbox to a folder on server for model prediction
   
-  ![vidgif](./docs/project demo.gif)
+  ![vidgif](./docs/project_demo.gif)
   
   
 
