@@ -31,4 +31,7 @@ I spend a lot of time looking for recipes that would match the ingredients I hav
 - [Step5_ImageClassification.ipynb](./notebooks/ImageClassification.ipynb) - Image classification
 - [Step5_End-to-end-pipeline.ipynb](./notebooks/End_to_endpipeline.ipynb) - example script of how images are fed into the model > output as text > key-search of tagged recipes
 
+**Pictures used for test**
+![alt text](./data/test/20200110_172626.jpg)
+
 
