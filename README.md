@@ -19,17 +19,6 @@ I spend a lot of time looking for recipes that would match the ingredients I hav
   - [x] Build a Flask app and a script that loads images from mail inbox to a folder on server for model prediction
   
   ![vidgif](./docs/project_demo.gif)
-  
-  
-**Code, notebooks, and documents**
-
-- [Project_Presentation.pptx](./docs/RecipeLive.pptx), or [PDF](./docs/RecipeLive.pdf) - project report on powerpoint (or pdf) formats 
-- [Step1_DataAcquisition.ipynb](./notebooks/DataGathering.ipynb) - collecting images from google
-- [Step2_recipe_scrapper.py](./scripts/recipe_scrapper.py) - Scrapped a recipe website
-- [Step3_Data Cleaning.ipynb](./notebooks/data_cleaning.ipynb) - preprocessing of the dataset
-- [Step4_EDA_and_TopicModeling.ipynb](./notebooks/EDA_and_topicmodeling.ipynb) - EDA and _topic modeling_ of recipe titles 
-- [Step5_ImageClassification.ipynb](./notebooks/ImageClassification.ipynb) - Image classification
-- [Step5_End-to-end-pipeline.ipynb](./notebooks/End_to_endpipeline.ipynb) - example script of how images are fed into the model > output as text > key-search of tagged recipes
 
 
 
