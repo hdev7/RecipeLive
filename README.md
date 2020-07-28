@@ -1,5 +1,6 @@
 # RecipeLive
 Recipe recommendation application based on the produce you have.
+[Presentation Report](https://hdev7.github.io/projects/ProjectRecipeLive.html)
 
 **Focus**: Image  Classification (w/ CNN), Text Classification (w/ NLP), Web Scraping, Data Engineering, and _Design-to-Product_ Pipeline
 
